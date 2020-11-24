@@ -36,6 +36,8 @@ public class AppTest
         assertTrue( true );
         System.out.println("test");
         System.out.println("testcheck");
+        System.out.println("branchChanges1");
+        System.out.println("branchChanges2");
         
     }
 }
