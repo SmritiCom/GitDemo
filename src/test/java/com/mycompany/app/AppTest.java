@@ -38,6 +38,8 @@ public class AppTest
         System.out.println("testcheck");
         System.out.println("branchChanges1");
         System.out.println("branchChanges2");
+        System.out.println("branchChanges3");
+        System.out.println("branchChanges4");
         
     }
 }
