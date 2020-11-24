@@ -36,14 +36,12 @@ public class AppTest
         assertTrue( true );
         System.out.println("test");
         System.out.println("testcheck");
-<<<<<<< HEAD
-       
-=======
+
         System.out.println("branchChanges1");
         System.out.println("branchChanges2");
         System.out.println("branchChanges3");
         System.out.println("branchChanges4");
->>>>>>> developed
+
         
     }
 }
